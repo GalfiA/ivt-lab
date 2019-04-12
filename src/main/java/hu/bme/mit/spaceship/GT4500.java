@@ -94,12 +94,6 @@ if (! primaryTorpedoStore.isEmpty()) {
 firingSuccess = first && second;
 break;
 
-
-
-
-
-
-        break;
     }
 
     return firingSuccess;
