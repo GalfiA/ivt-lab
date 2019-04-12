@@ -91,7 +91,7 @@ if (! primaryTorpedoStore.isEmpty()) {
               second  = secondaryTorpedoStore.fire(1);
               wasPrimaryFiredLast = false;
             }
-firingSuccess = first && second;
+firingSuccess = first &&  second;
 break;
 
     }
